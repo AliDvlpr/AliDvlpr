@@ -1,5 +1,10 @@
 # 💫 About Me:
-🖤 I'm working on some projects in ins-alborz.com<br>🤍 Project Manager of a store base startup<br>💙 Working professionally in the Backend field<br>💚 working in the frontend, AI and DevOps
+🖤 Engaged in exciting projects at Alborz Co<br>
+🤍 Proud Project Manager of a cutting-edge store-based startup<br>
+💙 Seasoned professional in the Backend realm, crafting robust solutions<br>
+💚 Versatile expertise spanning Frontend development, AI, and DevOps<br>
+🚀 Passionate about pushing the boundaries of technology and innovation<br>
+🔗 Check out my GitHub for a glimpse into my coding adventures! 🚀
 
 
 ## 🌐 Socials:
