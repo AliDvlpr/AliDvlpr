@@ -87,7 +87,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AliDvlpr/AliDvlpr/output/snake.svg" alt="snake animation">
+<img src="https://raw.githubusercontent.com/AliDvlpr/AliDvlpr/output/snake.svg" alt="Snake animation" />
 
 ###
 
