@@ -100,6 +100,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AliDvlpr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AliDvlpr&icon=5&color=12)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AliDvlpr&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
