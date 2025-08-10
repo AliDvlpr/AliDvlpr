@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖤 Engaged in exciting projects at Alborz Co<br>
+🖤 Engaged in exciting projects at Q Code<br>
 🤍 Proud Project Manager of a cutting-edge store-based startup<br>
 💙 Seasoned professional in the Backend realm, crafting robust solutions<br>
 💚 Versatile expertise spanning Frontend development, AI, and DevOps<br>
